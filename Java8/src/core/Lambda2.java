@@ -19,6 +19,7 @@ public class Lambda2 {
 		stud2.name="Mahesh";
 		stud2.address="Latur";
 		
+		
 		List<Student> pravara=new ArrayList<Student>();
 		
 		pravara.add(stud);
