@@ -21,6 +21,7 @@ public class Lambdacricket {
 			System.out.println(c.centuries);
 			System.out.println("****************");
 		}
+		//lambda expression 
 		
 		player.forEach((n)->{
 			if(n.centuries<40)
